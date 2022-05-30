@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583232224010",
+    "project_id": "flash-chat-95923",
+    "storage_bucket": "flash-chat-95923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583232224010:android:8466df855b2cea8beed8f3",
+        "android_client_info": {
+          "package_name": "com.thegarvitrai.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583232224010-6160hunqou8gmnba6gqg5o7hmifjt1gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4pg91GHM8SR5vmjiGlEyO19wx8P_ZZiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583232224010-6160hunqou8gmnba6gqg5o7hmifjt1gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
